@@ -1,0 +1,6 @@
+//it's turn for boolean type:
+
+b: boolean=false;
+
+//that was boolean but this one is not:
+false_22 = 1234;

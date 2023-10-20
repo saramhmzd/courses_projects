@@ -1,0 +1,10 @@
+c: char='$'//hello there, this is a comment
+/*this is // a comment tooo $%^^@ ***** and still this is a comment 
+
+stil a commnet
+;
+;
+:))
+*/
+s: string="this is a string";
+string_2: "this is also \" a string"; 
